@@ -1,0 +1,5 @@
+I developed this site with Visual studio code & live server(Screen shots attatched as page1,page2,...).While opening with the live server,the alignment of site content is correct.
+But , when opening without live server the alignment become disordeded.
+
+I tried many times to solve this problem but it did'nt work.
+So kindly check my screenshots.
